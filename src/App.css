@@ -1,0 +1,24 @@
+.tags {
+  text-align: center;
+  padding: 20px 0px;
+  background-color: rgb(43, 92, 226);
+}
+
+.tag {
+  outline: none;
+  border: none;
+  color: #eee;
+  margin: 0px 10px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.active {
+  font-weight: bold;
+  border-bottom: 1px solid #eee;
+}
+.image {
+  width: 100%;
+  padding-left: 10px;
+}
+
