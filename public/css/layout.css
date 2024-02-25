@@ -51,10 +51,13 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
-   background-color: rgba(162, 175, 114, 0.4);
+   background-color: rgba(3, 62, 88, 0.4);
    border-radius: 2em;
 }
-header .banner-text { width: 100%; }
+header .banner-text { 
+   width: 100%;
+   padding-top: 35px;
+ }
 header .banner-text h2 {
    font: 50px/1.1em 'opensans-bold', sans-serif;
    color: #e4e4e4;
@@ -76,8 +79,8 @@ header .banner-text h3 a {
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
-   border-color: rgba(150, 150, 150, .1);
+   border-color: #000000;
+   border-color: rgba(0, 0, 0, 0.993);
 }
 
 /* header social links */
@@ -185,7 +188,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #000000;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -201,7 +204,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #797979;
 }
 #about ul {
    margin: 20px 0;
@@ -243,7 +246,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #6a81e7;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -253,7 +256,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #000000;
 }
 #portfolio .tags {
 	text-align: center;
