@@ -96,7 +96,7 @@ q:before, q:after {
 }
 
 ins {
-   background-color: #ff9;
+   background-color: rgb(0, 2, 104);
    color: #000;
    text-decoration: none;
 }
