@@ -25,7 +25,7 @@ class Portfolio extends Component {
       settings: {
         autoplaySpeed: 2000,
         transitionSpeed: 900,
-        downloadedFileName: 'RuralShutterbug'
+        downloadedFileName: 'HEIC'
       }
     };
     // console.log(this.props.data);
@@ -59,7 +59,7 @@ class Portfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>"Free Photography and Creative photos by Rural Shutterbug "</h1>
+            <h1>"Free Photography and Creative photos by HEIC "</h1>
             <div className="tags">
               <this.TagButton
                 name="All"
@@ -86,26 +86,8 @@ class Portfolio extends Component {
               />{" "}
               /
               <this.TagButton
-                name="Illumination"
-                tagActive={this.state.tag === "Illumination" ? true : false}
-                handleSetTag={this.setTag}
-              />{" "}
-              /
-              <this.TagButton
-                name="Art/Craft"
-                tagActive={this.state.tag === "Art/Craft" ? true : false}
-                handleSetTag={this.setTag}
-              />{" "}
-              /
-              <this.TagButton
                 name="Road"
                 tagActive={this.state.tag === "Road" ? true : false}
-                handleSetTag={this.setTag}
-              />{" "}
-              /
-              <this.TagButton
-                name="Product"
-                tagActive={this.state.tag === "Product" ? true : false}
                 handleSetTag={this.setTag}
               />{" "}
               /
