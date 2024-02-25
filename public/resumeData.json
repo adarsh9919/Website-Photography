@@ -20,16 +20,7 @@
     },
   
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/profile.php?id=100010520802382",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/RiteshM57731846",
-        "className": "fa fa-twitter"
-      },
+
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/adarshsingh18/",
@@ -37,7 +28,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/_ritesh19_/",
+        "url": "https://www.instagram.com/adarsh_s0107/",
         "className": "fa fa-instagram"
       },
       {
@@ -48,18 +39,8 @@
     ],
     "social1":[
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/RuralShutterbug03/",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/RuralShutterbug",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "instagram",
-        "url": "https://www.instagram.com/rural_shutterbug/",
+        "url": "https://www.instagram.com/adarsh_s0107/",
         "className": "fa fa-instagram"
       }
     ]
