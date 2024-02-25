@@ -1,22 +1,22 @@
 {
   "main": {
-    "name": "Ritesh Maurya",
-    "company": "Rural Shutterbug",
+    "name": "Adarsh SIngh",
+    "company": "HEIC",
     "occupation": "Photography",
     "note": "Here I'm sharing photos for free to use anywhere. And don't forget to connect with us on other platforms links below..",
-    "image": "profilepic.jpg",
-    "bio": "Interests have another place in our life and this one page Website describe mine Photography and Editing skils. Here Ritesh Maurya student of Bundelkhand University currently pursuing Btech in ECE, who loves to learn new skills and love make photographs with camera. I have participated in many contest of photography. I have worked on many different projects and I'm skilled in C, HTML, CSS, JS, & REACT.JS. Would you like to share any suggestion or can help me in anyway in this initiative of mine then feel free to email me.",
+    "image": "profilepic.png",
+    "bio": "Interests have another place in our life and this one page Website describe mine Photography and Editing skils. Here Adarsh Singh student of KIET group Institutions currently pursuing Btech in ECE, who loves to learn new skills and love make photographs with camera. I have participated in many contest of photography. I have worked on many different projects and I'm skilled in C, C++, HTML, CSS, JS, & REACT.JS. Would you like to share any suggestion or can help me in anyway in this initiative of mine then feel free to email me.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "riteshvns19@gmail.com",
-    "phone": "9616696233",
+    "email": "adcric7@gmail.com",
+    "phone": "7080705263",
     "copyright": "Copyright 2021 ",
-    "copyrighttag": "Rural Shutterbug",
-    "design": "Design by Ritesh Maurya",
+    "copyrighttag": "HEIC",
+    "design": "Design by Adarsh Singh",
     "address": {
-      "street": "Jakkhini",
+      "street": "Obra",
       "city": "Varanasi",
       "state": "Uttar Pradesh",
-      "zip": "221305"
+      "zip": "201206"
     },
   
     "social": [
@@ -32,7 +32,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/ritesh-maurya-1212a7212/",
+        "url": "https://www.linkedin.com/in/adarshsingh18/",
         "className": "fa fa-linkedin"
       },
       {
@@ -42,7 +42,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/rmRiteshMaurya",
+        "url": "https://github.com/adarsh9919",
         "className": "fa fa-github"
       }
     ],
