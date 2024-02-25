@@ -59,7 +59,7 @@ class Portfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>"Beyond the Frame, Within the Embrace of Beauty "</h1>
+            <h1>"Beyond the Frame, Within the Embrace of Beauty"</h1>
             <div className="tags">
               <this.TagButton
                 name="All"

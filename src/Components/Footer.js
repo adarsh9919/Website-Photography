@@ -22,7 +22,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; {copyrights}<a href="https://www.ruralshutterbug.live">{copytag}</a></li>
+              <li>&copy; {copyrights}<a href="https://www.heic.live">{copytag}</a></li>
               <li>{Design}</li>
            </ul>
 
