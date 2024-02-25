@@ -38,7 +38,7 @@ class About extends Component {
 						         {city}, {state}, {zip}
                    </span><br />
 						   {/* <span>{phone}</span><br /> */}
-                     <span><a href="mailto:riteshvns19@gmail.com">{email}</a></span>
+                     <span><a href="mailto:adcric7@gmail.com">{email}</a></span>
 					   </p>
                   {/* <ul className="social">
                      {networks}
